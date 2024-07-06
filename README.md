@@ -8,7 +8,7 @@ Persistent City: Remembers the last searched city using SharedPreferences for co
 API Integration: Utilizes HTTP requests to fetch weather data from the OpenWeatherMap API.
 
 Screenshots-
-![home_page](https://github.com/yashbansal200005/weather_app/assets/174886554/b4ac871f-1dd5-4068-bb65-3b20a8edb3d1
+![home_page](https://github.com/yashbansal200005/weather_app/assets/174886554/b4ac871f-1dd5-4068-bb65-3b20a8edb3d1)
 ![details_page](https://github.com/yashbansal200005/weather_app/assets/174886554/b9018993-95c2-4762-9be6-ec1f27b0a95a)
 
 Getting Started-
